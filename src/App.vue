@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="本次实现了aliyun服务器的本地自动部署实践，通过github提交本地项目，romote自动更新"/>
   </div>
 </template>
 
