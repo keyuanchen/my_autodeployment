@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="本次实现了aliyun服务器的本地自动部署实践，通过github提交本地项目，romote自动更新"/>
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <HelloWorld msg="本次实现了aliyun服务器的本地自动部署实践，通过github提交本地项目，romote自动更新" />
+    <h1>你好，世界</h1>
   </div>
 </template>
 
